@@ -9,6 +9,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "",
-  "license": "MIT"
+  "license": "GPL-3.0"
 }
