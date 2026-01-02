@@ -1,0 +1,14 @@
+{
+  "name": "@jabidahs-creations-systems/gitextensions",
+  "version": "1.0.0",
+  "description": "Git Extensions is a standalone UI tool for managing git repositories",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jabidahs-Creations-Systems/gitextensions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "MIT"
+}
